@@ -21,10 +21,10 @@
     <dd>It is a kind of file end with .md.  
       In addition to writing TIL, README in github can be written in this way.</dd>  
     <dt>Syntax?</dt>  
-    <dd>Enclosure by **\<dl>**, and inside put *\<dt>* for definition term and *\<dd>* for data description.</dd>  
+    <dd>Enclosure by **`<dl>`**, and inside put *`<dt>`* for definition term and *`<dd>`* for data description.</dd>  
     <dt>Emphasize</dt>  
     <dd>In the last sentence I used emphasize. Just enclosure 1 or 2 * !</dd>  
     <dt>Escape sequence</dt>
-    <dd>In order to write markup tag in a sentence, just put backslash before opening and closing tag.</dd>  
+    <dd>In order to write markup tag in a sentence, just enclosure the tags by backticks ``.</dd>  
   </dl>
 
