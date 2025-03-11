@@ -9,7 +9,8 @@
   > Normal Quotation
   >> Nested Quotation
 >  > Without " ", go to the next line when I change line.
->  > "Howeve, if I put the whole sentence in double quotations,
+>  > Like this, here I did't add double spaces at the end of the line above, but each sentence is displayed separatly.
+>  > "However, if I put the whole sentence in double quotations,
 >  > even if I go to the next line, sentences will be displayed on the same line." 
 
 # Word Defition
