@@ -7,10 +7,10 @@
 
 # Quotation
   > Normal Quotation  
-  >> Nested Quotation  
-  > In order to start a new line, just add double spaces.
->  > Here
-  > In order to get out of a nested quotation, just use one > symbol.
+    >> Nested Quotation  
+    >  > In order to start a new line, just add double spaces.  
+    >  > How can I get out of this nested quotation?  
+  > Just use only one > symbol.  
 
 # Word Defition
   <dl>
